@@ -1,0 +1,5 @@
+homepage: "https://pathmonk.com"
+documentation: "https://github.com/pathmonk/pathmonk-gtm/blob/main/README.md"
+versions:
+  - sha: 11
+    changeNotes: Initial release.
