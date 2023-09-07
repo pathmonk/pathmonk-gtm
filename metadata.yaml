@@ -1,5 +1,5 @@
 homepage: "https://pathmonk.com"
 documentation: "https://github.com/pathmonk/pathmonk-gtm/blob/main/README.md"
 versions:
-  - sha: 11
+  - sha: faab326c45d98065da2045bd2624ddc48a4011e5
     changeNotes: Initial release.
